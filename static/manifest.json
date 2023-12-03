@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "gifify",
+	"version": "0.0.1",
+	"description": "Turn a screen capture into a gif",
+	"action": {
+		"default_title": "gifify",
+		"default_popup": "index.html"
+	}
+}
